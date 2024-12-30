@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.topImgContainer{
+    padding: 5% 15% 10% 15%;
+    position: relative;
+}
+
+
+.topName{
+    font-family: Staatliches;
+    position: absolute;
+    bottom: 5%;
+    right: 7%;
+    font-size: 7vw;
+}
+
+.fixedMenu{
+    list-style: none;
+    font-family: Staatliches;
+    font-size: 2.5vw;
+    margin-left: 3% ;
+}
+
+
+
